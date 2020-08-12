@@ -1,0 +1,54 @@
+[I 20:12:43.014 NotebookApp] JupyterLab extension loaded from /home/gely/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 20:12:43.014 NotebookApp] JupyterLab application directory is /home/gely/anaconda3/share/jupyter/lab
+[I 20:12:43.016 NotebookApp] Serving notebooks from local directory: /home/gely/Documents/Optimization/NetworkX/from_documentation
+[I 20:12:43.016 NotebookApp] The Jupyter Notebook is running at:
+[I 20:12:43.016 NotebookApp] http://localhost:8888/?token=79807bd9fc0854a8f5a1366f507a6b2df03b6577a4e640d6
+[I 20:12:43.016 NotebookApp]  or http://127.0.0.1:8888/?token=79807bd9fc0854a8f5a1366f507a6b2df03b6577a4e640d6
+[I 20:12:43.016 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 20:12:43.038 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/gely/.local/share/jupyter/runtime/nbserver-21009-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=79807bd9fc0854a8f5a1366f507a6b2df03b6577a4e640d6
+     or http://127.0.0.1:8888/?token=79807bd9fc0854a8f5a1366f507a6b2df03b6577a4e640d6
+[I 20:13:01.867 NotebookApp] Creating new notebook in 
+[I 20:13:03.323 NotebookApp] Kernel started: 379af17d-c4ee-4977-a97b-c5df213b975a
+[I 20:15:03.212 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:17:03.198 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:19:03.198 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:21:03.196 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:25:03.195 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:27:03.195 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:39:03.198 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:41:03.199 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:43:03.185 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:47:03.194 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:49:03.197 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:51:03.195 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:55:03.181 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:57:03.196 NotebookApp] Saving file at /Intro_1.ipynb
+[I 20:59:03.197 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:01:03.198 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:13:03.186 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:15:03.190 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:17:03.200 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:19:03.206 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:21:03.206 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:25:03.203 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:27:03.217 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:29:03.204 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:31:03.208 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:33:03.241 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:35:03.211 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:37:03.209 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:39:03.203 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:41:03.185 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:43:03.213 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:45:03.197 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:47:03.200 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:49:03.199 NotebookApp] Saving file at /Intro_1.ipynb
+[I 21:49:47.985 NotebookApp] Saving file at /Intro_1.ipynb
+[I 07:19:41.150 NotebookApp] Interrupted...
+[I 07:19:41.151 NotebookApp] Shutting down 1 kernel
+[I 07:19:43.061 NotebookApp] Kernel shutdown: 379af17d-c4ee-4977-a97b-c5df213b975a
